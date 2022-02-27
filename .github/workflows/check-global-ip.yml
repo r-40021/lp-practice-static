@@ -4,6 +4,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: show global ip
-      - run: |
-          curl https://inet-ip.info/
+    - name: show global ip
+    - run: |
+        curl https://inet-ip.info/
