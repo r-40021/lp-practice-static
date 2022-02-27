@@ -1,4 +1,3 @@
-
 on: push
 name: check_global_ip
 jobs:
